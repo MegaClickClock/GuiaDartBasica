@@ -7,3 +7,4 @@ export 'clases.dart';
 export 'constructores.dart';
 export 'getter_setter.dart';
 export 'clases_abstracta.dart';
+export 'mixins.dart';
