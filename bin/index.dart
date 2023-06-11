@@ -1,0 +1,9 @@
+export 'tipos_variables.dart';
+export 'dynamic.dart';
+export 'maps.dart';
+export 'list.dart';
+export 'functions.dart';
+export 'clases.dart';
+export 'constructores.dart';
+export 'getter_setter.dart';
+export 'clases_abstracta.dart';
