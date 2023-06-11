@@ -1,4 +1,4 @@
-import 'index.dart';
+import '../lib/index.dart';
 
 void main(List<String> arguments) {
   //*tipos de variables
